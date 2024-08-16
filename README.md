@@ -3,6 +3,7 @@
 🔍 About Me
 
 I’m a Data Analyst with a knack for transforming complex data into clear, actionable insights. With a strong foundation in Python, SQL, Power BI, and Excel, I enjoy diving deep into data to uncover trends and drive informed decisions. My goal is to leverage my analytical skills to contribute to innovative and impactful projects.
+
 🛠️ Skills & Technologies
 
   Python: Advanced data manipulation, analysis, and visualization with Pandas, NumPy, and Matplotlib.
