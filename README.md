@@ -7,6 +7,14 @@ I’m a Data Analyst with a knack for transforming complex data into clear, acti
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+🚀 Experience
+  Role: Data Analyst Intern at CloudyML
+  
+  Responsibilities: Conducted data analysis, created reports, and supported decision-making processes.
+  
+  Achievements: Developed insightful dashboards, performed data cleaning and visualization.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YasirKhan224&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YasirKhan224&theme=dark&hide_border=false)<br/>
