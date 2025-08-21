@@ -40,6 +40,8 @@ Opportunities to apply my data analytics skills to real-world projects, contribu
 📬 Get In Touch
 
 Email: yasirk747@gmail.com
+
+LinkedIn: linkedin.com/in/yasir-khan224
     
 
 Thanks for stopping by! Let’s connect and explore how we can create data-driven success together. 🚀
