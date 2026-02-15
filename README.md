@@ -1,9 +1,7 @@
-👋 Hello! I’m Yasir Khan – Aspiring Data Analyst 🚀
+👋 Hello! I’m Yasir Khan – Data Analyst 🚀
 
 🔍 About Me
 I’m a tech professional currently working at **DXC Technology** as a **Mainframe Developer**, where I support insurance clients by managing policy-related data with COBOL and DB2. Alongside my role, I’m building strong expertise in **Data Analytics** with Python, SQL, Power BI, and Excel.  
-
-My goal is to transition into a **Data Analyst role**, using my analytical skills to turn data into actionable insights that drive smarter business decisions.  
 
 ---
 
