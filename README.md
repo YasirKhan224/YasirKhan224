@@ -1,7 +1,7 @@
 👋 Hello! I’m Yasir Khan – Data Analyst 🚀
 
 🔍 About Me
-I’m a tech professional currently working at **DXC Technology** as a **Mainframe Developer**, where I support insurance clients by managing policy-related data with COBOL and DB2. Alongside my role, I’m building strong expertise in **Data Analytics** with Python, SQL, Power BI, and Excel.  
+I’m a tech professional currently working at **DXC Technology** as Analyst II Software Engineer, I’ve strong expertise in **Data Analytics** with Python, SQL, Power BI, and Excel.  
 
 ---
 
@@ -10,7 +10,7 @@ I’m a tech professional currently working at **DXC Technology** as a **Mainfra
 - **SQL**: Complex queries, joins, aggregations, and optimization  
 - **Power BI**: Interactive dashboards & performance reports  
 - **Excel**: Advanced formulas, pivot tables, and visual analysis  
-- **Mainframe (DXC Technology)**: COBOL, DB2, Jira, ServiceNow  
+- **(DXC Technology)**: COBOL, DB2, Jira, ServiceNow  
 
 ---
 
