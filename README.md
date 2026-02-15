@@ -15,12 +15,12 @@ I’m a tech professional currently working at **DXC Technology** as Analyst II 
 ---
 
 🚀 Experience
-**Mainframe Developer | DXC Technology**  
+**Analyst II Software Engineer| DXC Technology**  
 - Supporting insurance projects by resolving policy-related issues  
 - Working on COBOL (frontend) and DB2 (backend) systems  
 - Managing tickets and workflows via Jira and ServiceNow  
 
-📈 Data Analyst Intern | CloudyML
+📈 Data Analyst Intern | CloudyML (June 2024 - July 2024)
 - Performed data cleaning, transformation, and visualization  
 - Built dashboards and delivered insights for real-world datasets  
 
